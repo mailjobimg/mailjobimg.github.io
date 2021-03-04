@@ -1,2 +1,1 @@
-# mailjobimg.github.io
-github 图床
+# github 图床
